@@ -1,7 +1,7 @@
-# 07-Aug-2015 23:10:35 - BackupCatalog.2015-08-07_23.10.00_07 - Full
+# 10-Aug-2015 23:15:19 - BackupCatalog.2015-08-10_23.10.00_15 - Full
 Volume="testtape01"
 MediaType="tape"
-VolSessionId=3
-VolSessionTime=1438982751
-VolAddr=4286377361408-4286377361420
+VolSessionId=8
+VolSessionTime=1439239111
+VolAddr=4475355922432-4475355922444
 FileIndex=1-1
