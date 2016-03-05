@@ -1,7 +1,7 @@
-# 04-Mar-2016 16:44:31 - BackupCatalog.2016-03-04_16.15.43_07 - Full
+# 04-Mar-2016 23:35:01 - BackupCatalog.2016-03-04_23.10.00_09 - Full
 Volume="testtape02"
 MediaType="tape"
-VolSessionId=4
+VolSessionId=6
 VolSessionTime=1457112154
-VolAddr=2014339661824-2014339662618
+VolAddr=2229088026624-2229088027424
 FileIndex=1-1
